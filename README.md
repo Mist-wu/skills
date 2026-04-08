@@ -4,6 +4,8 @@ A lightweight repository for collecting and organizing reusable skills.
 
 ## Included skills
 
+- `skills/design-an-interface`
+- `skills/edit-article`
 - `skills/grill-me`
 - `skills/write-a-prd`
 - `skills/prd-to-issues`

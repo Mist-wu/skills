@@ -3,6 +3,8 @@
 This repository includes the following imported skills from Matt Pocock's
 repository:
 
+- `skills/design-an-interface`
+- `skills/edit-article`
 - `skills/grill-me`
 - `skills/write-a-prd`
 - `skills/prd-to-issues`

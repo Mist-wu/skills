@@ -36,3 +36,39 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This repository also includes the following imported skills from Anthropic's
+repository:
+
+- `skills/docx`
+- `skills/pdf`
+- `skills/pptx`
+
+Source repository:
+
+- https://github.com/anthropics/skills
+
+These imported materials are marked as proprietary in their bundled
+`LICENSE.txt` files:
+
+Copyright notice:
+
+- `© 2025 Anthropic, PBC. All rights reserved.`
+
+Summary of applicable terms:
+
+- Use of these materials is governed by your agreement with Anthropic for use
+  of Anthropic services.
+- If no separate agreement applies, use is governed by Anthropic's Consumer
+  Terms or Commercial Terms, as applicable.
+- The bundled license states that users may not extract these materials from
+  the services, retain copies outside the services, reproduce them except for
+  temporary authorized-use copies, create derivative works, distribute them to
+  third parties, commercialize inventions embodied in them, or reverse
+  engineer them.
+- Anthropic retains all right, title, and interest in these materials.
+
+Referenced terms:
+
+- https://www.anthropic.com/legal/consumer-terms
+- https://www.anthropic.com/legal/commercial-terms
